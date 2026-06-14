@@ -1,0 +1,11 @@
+.hero {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 40px;
+}
+
+.hero img {
+  width: 400px;
+  border-radius: 15px;
+}
