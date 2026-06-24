@@ -16,10 +16,34 @@ const foodData = {
     },
     {
       id: 3,
-      name: "Classic Burger",
+      name: "Classic Chicken Burger",
       price: "₹199",
       image:
         "https://images.pexels.com/photos/5474626/pexels-photo-5474626.jpeg"
+    }
+    ,
+    {
+      id: 4,
+      name: "Classic Veg Burger",
+      price: "₹189",
+      image:
+        "https://images.pexels.com/photos/5554607/pexels-photo-5554607.jpeg"
+    }
+    ,
+    {
+      id: 5,
+      name: "Paneer Tikka Burger",
+      price: "₹189",
+      image:
+        "https://images.pexels.com/photos/6045036/pexels-photo-6045036.jpeg"
+    }
+    ,
+    {
+      id: 6,
+      name: "Beef & Cheese Burger",
+      price: "₹189",
+      image:
+        "https://images.pexels.com/photos/27469753/pexels-photo-27469753.jpeg"
     }
   ],
 
@@ -44,6 +68,30 @@ const foodData = {
       price: "₹129",
       image:
         "https://images.pexels.com/photos/11485199/pexels-photo-11485199.jpeg"
+    }
+    ,
+    {
+      id: 4,
+      name: "Cream Cheese Donuts",
+      price: "₹129",
+      image:
+        "https://images.pexels.com/photos/4686958/pexels-photo-4686958.jpeg"
+    }
+    ,
+    {
+      id: 5,
+      name: "Triple chocolate waffles",
+      price: "₹129",
+      image:
+        "https://images.pexels.com/photos/35054722/pexels-photo-35054722.jpeg"
+    }
+    ,
+    {
+      id: 6,
+      name: "Cherry Mousse",
+      price: "₹129",
+      image:
+        "https://images.pexels.com/photos/29639678/pexels-photo-29639678.jpeg"
     }
   ],
 
